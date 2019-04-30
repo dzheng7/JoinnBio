@@ -1,0 +1,840 @@
+Uri: https://www.joinnbio.com/
+File Name: C:\MyWebsites\www.joinnbio.com\index.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/favicon.ico
+File Name: C:\MyWebsites\www.joinnbio.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.joinnbio.com/assets/vendor/bootstrap/bootstrap.min.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/css/font-awesome.min.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/css/simple-line-icons.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/style.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\style.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-hs/style.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-hs\style.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/animate.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\animate.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/hs-megamenu/src/hs.megamenu.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\hs-megamenu\src\hs.megamenu.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/hamburgers/hamburgers.min.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\hamburgers\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/chosen/chosen.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\chosen\chosen.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/slick-carousel/slick/slick.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\slick-carousel\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/fancybox/jquery.fancybox.min.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/css/custom.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/info/css/styles.multipage-real-estate.css
+File Name: C:\MyWebsites\www.joinnbio.com\info\css\styles.multipage-real-estate.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/index.html
+File Name: C:\MyWebsites\www.joinnbio.com\index-1.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-cGMP-Upstream.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-cGMP-Upstream.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-cGMP-Downstream.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-cGMP-Downstream.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-cGMP-Fill-Finish.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-cGMP-Fill-Finish.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-cGMP-Commercial.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-cGMP-Commercial.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-PD-CellLine.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-PD-CellLine.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-PD-Upstream.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-PD-Upstream.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-PD-Downstream.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-PD-Downstream.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-PD-Analytical.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-PD-Analytical.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-non-GMP-Production.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-non-GMP-Production.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-About.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-About.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-Careers.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-Careers.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/JoinnBio-Contact.html
+File Name: C:\MyWebsites\www.joinnbio.com\JoinnBio-Contact.html
+Content Type: text/html
+
+Uri: https://www.joinnbio.com/info/img/logo/JoinnBio-Logo.png
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\logo\JoinnBio-Logo.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/info/img/Home/Cell-Line.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\Home\Cell-Line.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/Home/Upstream.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\Home\Upstream.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/Home/Downstream.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\Home\Downstream.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/Home/Antibody.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\Home\Antibody.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/Home/MassSpec.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\Home\MassSpec.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery/jquery.min.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery-migrate/jquery-migrate.min.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery-migrate\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/popper.min.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/bootstrap/bootstrap.min.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/hs-megamenu/src/hs.megamenu.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\hs-megamenu\src\hs.megamenu.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery-ui/ui/widget.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery-ui\ui\widget.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery-ui/ui/widgets/menu.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery-ui\ui\widgets\menu.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery-ui/ui/widgets/mouse.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery-ui\ui\widgets\mouse.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/jquery-ui/ui/widgets/slider.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\jquery-ui\ui\widgets\slider.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/chosen/chosen.jquery.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\chosen\chosen.jquery.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/slick-carousel/slick/slick.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\slick-carousel\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/fancybox/jquery.fancybox.min.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/hs.core.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\hs.core.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.header.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.header.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/helpers/hs.hamburgers.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\helpers\hs.hamburgers.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.dropdown.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.dropdown.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.slider.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.slider.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.select.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.select.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.carousel.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.popup.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.popup.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/js/components/hs.go-to.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\js\components\hs.go-to.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\fonts\Simple-Line-Icons.woff2
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\fonts\Simple-Line-Icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\fonts\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\education\webfont\fonts\education-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\finance\webfont\fonts\finance-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\food\webfont\fonts\food-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/media/webfont/fonts/media.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\media\webfont\fonts\media.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/media/webfont/fonts/media.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\media\webfont\fonts\media-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/media/webfont/fonts/media.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\media\webfont\fonts\media.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/media/webfont/fonts/media.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\media\webfont\fonts\media.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/media/webfont/fonts/media.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\media\webfont\fonts\media.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/music/webfont/fonts/music.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\music\webfont\fonts\music.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/music/webfont/fonts/music.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\music\webfont\fonts\music-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/music/webfont/fonts/music.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\music\webfont\fonts\music.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/music/webfont/fonts/music.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\music\webfont\fonts\music.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/music/webfont/fonts/music.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\music\webfont\fonts\music.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/science/webfont/fonts/science.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\science\webfont\fonts\science.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/science/webfont/fonts/science.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\science\webfont\fonts\science-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/science/webfont/fonts/science.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\science\webfont\fonts\science.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/science/webfont/fonts/science.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\science\webfont\fonts\science.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/science/webfont/fonts/science.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\science\webfont\fonts\science.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\travel\webfont\fonts\travel-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\weather\webfont\fonts\weather-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.eot
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.eot?
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\transport\webfont\fonts\transport-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.woff
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.ttf
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.svg
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-hs/fonts/hs-icons.ttf?xa77py
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-hs\fonts\hs-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-hs/fonts/hs-icons.woff?xa77py
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-hs\fonts\hs-icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.joinnbio.com/assets/vendor/icon-hs/fonts/hs-icons.svg?xa77py
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\icon-hs\fonts\hs-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.joinnbio.com/assets/vendor/chosen/chosen-sprite.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/chosen/chosen-sprite@2x.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/info/img/bg/JoinnBio-cGMP-Upstream.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\bg\JoinnBio-cGMP-Upstream.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsparallaxer.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsparallaxer.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/scroller.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\scroller.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/plugin.css
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\plugin.css
+Content Type: text/css
+
+Uri: https://www.joinnbio.com/info/img/cGMP-Upstream/JoinnBio-cGMP-Upstream-Bioreactor.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\cGMP-Upstream\JoinnBio-cGMP-Upstream-Bioreactor.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/cGMP-Upstream/JoinnBio-cGMP-Upstream-Manufacturing.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\cGMP-Upstream\JoinnBio-cGMP-Upstream-Manufacturing.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsparallaxer.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsparallaxer.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/scroller.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\scroller.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/plugin.js
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\plugin.js
+Content Type: application/javascript
+
+Uri: https://www.joinnbio.com/info/img/PD-Cell-Line/JoinnBio-Cell-Line-Development.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\PD-Cell-Line\JoinnBio-Cell-Line-Development.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/PD-Cell-Line/JoinnBio-Cell-Line-Antibody.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\PD-Cell-Line\JoinnBio-Cell-Line-Antibody.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/PD-Cell-Line/JoinnBio-PD-Cell-Line-Development-Steps.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\PD-Cell-Line\JoinnBio-PD-Cell-Line-Development-Steps.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/PD-Upstream/JoinnBio-PD-Upstream-Bioreactors.png
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\PD-Upstream\JoinnBio-PD-Upstream-Bioreactors.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/info/img/PD-Upstream/JoinnBio-PD-Upstream-Wave-Bioreactor.jpg
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\PD-Upstream\JoinnBio-PD-Upstream-Wave-Bioreactor.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/bg/group-photo.JPG
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\bg\group-photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.joinnbio.com/info/img/logo/JoinnBio-WeChat.png
+File Name: C:\MyWebsites\www.joinnbio.com\info\img\logo\JoinnBio-WeChat.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/openhand.cur
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\openhand.cur
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/closedhand.cur
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\closedhand.cur
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/scroller1.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\scroller1.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/s3scrollerx.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\s3scrollerx.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/s3scrollery.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\s3scrollery.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progress.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progress.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progressy.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progressy.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progressblue.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progressblue.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/handle.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\handle.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/skin_timeline_handle.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\skin_timeline_handle.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/skin_timeline_bg.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\skin_timeline_bg.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/dzsscroller/styleimg/preloader.gif
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\dzsscroller\styleimg\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/shadow.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\shadow.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/preloader.gif
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/bullet.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\bullet.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/openhand.cur
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\openhand.cur
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/closedhand.cur
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\closedhand.cur
+Content Type: 
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-white.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-white.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-white.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-white.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-black-small.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-black-small.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-black-small.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-black-small.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-black.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-black.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-black.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-black.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-round-left.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-round-left.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-round-right.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-round-right.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/skin-agapa-arrow-left.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\skin-agapa-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/img/skin-agapa-arrow-right.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\img\skin-agapa-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b1.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b1.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b2.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b2.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b3.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b3.png
+Content Type: image/png
+
+Uri: https://www.joinnbio.com/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b4.png
+File Name: C:\MyWebsites\www.joinnbio.com\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b4.png
+Content Type: image/png
+
